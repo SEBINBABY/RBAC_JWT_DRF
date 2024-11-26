@@ -112,7 +112,7 @@ Sample JSON for login
 "password" : "hospital11"
 }
 
-## Vendor Endpoints
+## Prescription Endpoints
 
 ### 1.Create a prescription(Role Based Access Control given only to Doctor's Role):
 
