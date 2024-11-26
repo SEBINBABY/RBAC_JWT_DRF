@@ -1,4 +1,4 @@
-# Django Vendor Management System:
+# Django Hospital Management System:
 
 A Hospital Management System (HMS) built using Django and Django REST Framework. This system manages Doctor profiles, allowes Role Based Access Control to Doctor's Prescriptions and Lab Reports.
 
